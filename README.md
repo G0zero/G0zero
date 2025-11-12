@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![G0zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0zero)](https://github.com/anuraghazra/github-readme-stats)
 
 ### SKILL✨
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
